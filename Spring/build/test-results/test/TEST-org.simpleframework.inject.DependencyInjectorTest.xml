@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.simpleframework.inject.DependencyInjectorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-19T01:59:33" hostname="PC-20200329MWQL" time="0.002">
+  <properties/>
+  <testcase name="autowiredTest" classname="org.simpleframework.inject.DependencyInjectorTest" time="0.002"/>
+  <system-out><![CDATA[2020-06-19 09:59:33,162 WARN [org.simpleframework.core.BeanContainer] - The beanMap has been loaded
+2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - find the specified class HeadLIneServiceImpl from [TestAutowiredClass, HeadLIneServiceImpl]
+2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.solo.impl.ShopCategoryServiceImpl
+2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.combine.HeadLineShopCategoryCombineServiceImpl
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

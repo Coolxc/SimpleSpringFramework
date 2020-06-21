@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.simpleframework.aop.AspectListExecutorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-19T01:59:32" hostname="PC-20200329MWQL" time="0.014">
+  <properties/>
+  <testcase name="sortTest" classname="org.simpleframework.aop.AspectListExecutorTest" time="0.014"/>
+  <system-out><![CDATA[1 : org.simpleframework.aop.mock.Mock3@697133f5
+3 : org.simpleframework.aop.mock.Mock1@4f046718
+44 : org.simpleframework.aop.mock.Mock2@35334293
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

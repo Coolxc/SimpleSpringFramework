@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.simpleframework.core.BeanContainerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-19T01:59:32" hostname="PC-20200329MWQL" time="0.165">
+  <properties/>
+  <testcase name="loadBeanTest" classname="org.simpleframework.core.BeanContainerTest" time="0.163"/>
+  <testcase name="getBeanTest" classname="org.simpleframework.core.BeanContainerTest" time="0.0"/>
+  <testcase name="getClassesByAnnotationTest" classname="org.simpleframework.core.BeanContainerTest" time="0.001"/>
+  <testcase name="getClassesBySuperTest" classname="org.simpleframework.core.BeanContainerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

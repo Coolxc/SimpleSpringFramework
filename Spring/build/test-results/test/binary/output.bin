@@ -1,0 +1,33 @@
+11 : org.simpleframework.aop.mock.Mock3@697133f5
+13 : org.simpleframework.aop.mock.Mock1@4f046718
+244 : org.simpleframework.aop.mock.Mock2@35334293
+	e2020-06-19 09:59:32,842 WARN [org.simpleframework.core.BeanContainer] - The beanMap has been loaded
+	¬2020-06-19 09:59:33,122 INFO [org.simpleframework.inject.DependencyInjector] - find the specified class HeadLIneServiceImpl from [TestAutowiredClass, HeadLIneServiceImpl]
+	Ÿ2020-06-19 09:59:33,132 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.solo.impl.ShopCategoryServiceImpl
+	¬2020-06-19 09:59:33,132 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.combine.HeadLineShopCategoryCombineServiceImpl
+	Have aspect:
+	J2020-06-19 09:59:33,132 INFO [com.yang.aspect.MyAspect] - Before advice~
+	It's controller
+	Hiiiiiiiiiiiiiiiiiiiiiiiiiii
+	S2020-06-19 09:59:33,152 INFO [com.yang.aspect.MyAspect] - After returning advice~
+	=====================
+	
+	J2020-06-19 09:59:33,162 INFO [com.yang.aspect.MyAspect] - Before advice~
+	It's controller
+	!Noooooooooooooooooooooooooooooo
+	S2020-06-19 09:59:33,162 INFO [com.yang.aspect.MyAspect] - After returning advice~
+	=====================
+	
+	No aspect:
+	!Noooooooooooooooooooooooooooooo
+	=====================
+	
+
+e2020-06-19 09:59:33,162 WARN [org.simpleframework.core.BeanContainer] - The beanMap has been loaded
+
+¬2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - find the specified class HeadLIneServiceImpl from [TestAutowiredClass, HeadLIneServiceImpl]
+
+Ÿ2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.solo.impl.ShopCategoryServiceImpl
+
+¬2020-06-19 09:59:33,162 INFO [org.simpleframework.inject.DependencyInjector] - ==== Autowired SUCCESS =====com.yang.service.combine.HeadLineShopCategoryCombineServiceImpl
+›[interface com.yang.service.solo.ShopCategoryService, class com.yang.service.solo.impl.TestAutowiredClass, class com.yang.service.combine.HeadLineShopCategoryCombineServiceImpl, class com.yang.service.solo.impl.HeadLIneServiceImpl, interface com.yang.service.combine.HeadLineShopCategoryCombineService, class com.yang.service.solo.impl.ShopCategoryServiceImpl, interface com.yang.service.solo.HeadLineService]

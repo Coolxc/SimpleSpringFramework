@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.simpleframework.util.ClassUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-19T01:59:33" hostname="PC-20200329MWQL" time="0.003">
+  <properties/>
+  <testcase name="extractPackageClassTest" classname="org.simpleframework.util.ClassUtilTest" time="0.003"/>
+  <system-out><![CDATA[[interface com.yang.service.solo.ShopCategoryService, class com.yang.service.solo.impl.TestAutowiredClass, class com.yang.service.combine.HeadLineShopCategoryCombineServiceImpl, class com.yang.service.solo.impl.HeadLIneServiceImpl, interface com.yang.service.combine.HeadLineShopCategoryCombineService, class com.yang.service.solo.impl.ShopCategoryServiceImpl, interface com.yang.service.solo.HeadLineService]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

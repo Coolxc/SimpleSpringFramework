@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee2c47f9-59dc-4bee-a1c2-c586e253c437" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="web application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cR0MGb9kCnGDmShOCKnnDEm3QY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springLearn" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36551723" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.simpleframework.mvc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Spring [tomcatRunWar]">
+    <configuration name="AspectWeaverTest.aspectWeaveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.simpleframework.aop.AspectWeaverTest.aspectWeaveTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring [tomcatRunWar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatRunWar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Spring [tomcatRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.AspectWeaverTest.aspectWeaveTest" />
+      <item itemvalue="Gradle.Spring [build]" />
+      <item itemvalue="Gradle.Spring [clean]" />
+      <item itemvalue="Gradle.Spring [tomcatRun]" />
+      <item itemvalue="Gradle.Spring [tomcatRunWar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Spring [tomcatRunWar]" />
+        <item itemvalue="Gradle.Spring [tomcatRun]" />
+        <item itemvalue="Gradle.Spring [build]" />
+        <item itemvalue="Gradle.Spring [clean]" />
+        <item itemvalue="Gradle.AspectWeaverTest.aspectWeaveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2c47f9-59dc-4bee-a1c2-c586e253c437" name="Default Changelist" comment="" />
+      <created>1590476049079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590476049079</updated>
+      <workItem from="1590476052598" duration="5458000" />
+      <workItem from="1590628185570" duration="7587000" />
+      <workItem from="1590658614822" duration="930000" />
+      <workItem from="1590659630778" duration="59000" />
+      <workItem from="1590659740176" duration="1667000" />
+      <workItem from="1590991434858" duration="13685000" />
+      <workItem from="1591059632440" duration="18168000" />
+      <workItem from="1591102047280" duration="1803000" />
+      <workItem from="1591174038937" duration="150000" />
+      <workItem from="1591411245025" duration="594000" />
+      <workItem from="1591516148059" duration="2544000" />
+      <workItem from="1591518747414" duration="16455000" />
+      <workItem from="1591858455869" duration="26989000" />
+      <workItem from="1592356542513" duration="24165000" />
+      <workItem from="1592530570055" duration="465000" />
+      <workItem from="1592531063297" duration="293000" />
+      <workItem from="1592531403999" duration="10184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="78" key="#Notifications" timestamp="1591944965885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="312" y="78" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1591944965885" />
+    <state x="424" y="74" key="#Project_Structure" timestamp="1590476107982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590476107982" />
+    <state x="360" y="73" key="#Tomcat_Server" timestamp="1592545368649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="73" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1592545368649" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592545369829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592545369829" />
+    <state x="1049" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592551125487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1049" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592551125487" />
+    <state x="454" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592545167710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592545167710" />
+    <state x="645" y="199" width="576" height="542" key="#xdebugger.evaluate" timestamp="1591579083964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="199" width="576" height="542" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1591579083964" />
+    <state width="284" height="466" key="DebuggerActiveHint" timestamp="1591578344655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="284" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591578344655" />
+    <state x="400" y="156" key="FileChooserDialogImpl" timestamp="1592622561573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592622561573" />
+    <state width="1346" height="152" key="GridCell.Tab.0.bottom" timestamp="1592622562873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="152" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592622562873" />
+    <state width="1346" height="152" key="GridCell.Tab.0.center" timestamp="1592622562873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="152" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592622562873" />
+    <state width="1346" height="152" key="GridCell.Tab.0.left" timestamp="1592622562873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="152" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592622562873" />
+    <state width="1346" height="152" key="GridCell.Tab.0.right" timestamp="1592622562873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="152" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592622562873" />
+    <state width="1346" height="212" key="GridCell.Tab.1.bottom" timestamp="1591665469440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591665469440" />
+    <state width="1346" height="212" key="GridCell.Tab.1.center" timestamp="1591665469439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591665469439" />
+    <state width="1346" height="212" key="GridCell.Tab.1.left" timestamp="1591665469439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591665469439" />
+    <state width="1346" height="212" key="GridCell.Tab.1.right" timestamp="1591665469439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1346" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591665469439" />
+    <state x="204" y="0" key="SettingsEditor" timestamp="1592545169140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592545169140" />
+    <state x="440" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592545062410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="440" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1592545062410" />
+    <state x="210" y="33" key="new project wizard" timestamp="1591174186575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="210" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591174186575" />
+  </component>
+</project>
