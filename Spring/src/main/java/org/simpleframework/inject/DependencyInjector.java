@@ -13,6 +13,9 @@ import java.util.stream.Collectors;
 
 import static java.util.stream.Collectors.toList;
 
+/**
+ * Dependency inject
+ */
 @Slf4j
 public class DependencyInjector {
     private BeanContainer beanContainer;

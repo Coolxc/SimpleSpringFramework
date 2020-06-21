@@ -6,6 +6,9 @@ import org.aspectj.weaver.tools.ShadowMatch;
 
 import java.lang.reflect.Method;
 
+/**
+ * Parse the pointcut language
+ */
 public class PointcutLocator {
 
     private PointcutParser pointcutParser = PointcutParser.getPointcutParserSupportingSpecifiedPrimitivesAndUsingContextClassloaderForResolution(

@@ -18,6 +18,9 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
+/**
+ * The core of spring : Bean Container
+ */
 @Log4j
 @NoArgsConstructor(access = AccessLevel.PRIVATE) //define the private constructor
 public class BeanContainer {
